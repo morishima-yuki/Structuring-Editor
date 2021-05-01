@@ -3,82 +3,98 @@
         {
             "id": "1",
             "name": "6W2H",
-            "key": "6W2H_1.0.0.structuring.json"
+            "key": "6W2H_1.0.0.structuring.json",
+            "tags":[{ "tagName":"論理思考" }]
         },
         {
             "id": "2",
             "name": "AIDMA",
-            "key": "AIDMA_1.0.0.structuring.json"
+            "key": "AIDMA_1.0.0.structuring.json",
+            "tags":[]
         },
         {
             "id": "3",
             "name": "ECRS",
-            "key": "ECRS_1.0.0.structuring.json"
+            "key": "ECRS_1.0.0.structuring.json",
+            "tags":[{ "tagName":"業務分析" }]
         },
         {
             "id": "4",
             "name": "GROWモデル",
-            "key": "GROWモデル_1.0.0.structuring.json"
+            "key": "GROWモデル_1.0.0.structuring.json",
+            "tags":[]
         },
         {
             "id": "5",
             "name": "PREP",
-            "key": "PREP_1.0.0.structuring.json"
+            "key": "PREP_1.0.0.structuring.json",
+            "tags":[]
         },
         {
             "id": "6",
             "name": "SMART",
-            "key": "SMART_1.0.0.structuring.json"
+            "key": "SMART_1.0.0.structuring.json",
+            "tags":[]
         },
         {
             "id": "7",
             "name": "SUCCESs",
-            "key": "SUCCESs_1.0.0.structuring.json"
+            "key": "SUCCESs_1.0.0.structuring.json",
+            "tags":[]
         },
         {
             "id": "8",
             "name": "SWOT分析",
-            "key": "SWOT分析_1.0.0.structuring.json"
+            "key": "SWOT分析_1.0.0.structuring.json",
+            "tags":[{ "tagName":"戦略立案" },{ "tagName":"要因分析" }]
         },
         {
             "id": "9",
             "name": "VRIO分析",
-            "key": "VRIO分析_1.0.0.structuring.json"
+            "key": "VRIO分析_1.0.0.structuring.json",
+            "tags":[{ "tagName":"戦略立案" },{ "tagName":"要因分析" }]
         },
         {
             "id": "10",
             "name": "WBS",
-            "key": "WBS_1.0.0.structuring.json"
+            "key": "WBS_1.0.0.structuring.json",
+            "tags":[{ "tagName":"計画手法" }]
         },
         {
             "id": "11",
             "name": "オズボーンのチェックリスト",
-            "key": "オズボーンのチェックリスト_1.0.0.structuring.json"
+            "key": "オズボーンのチェックリスト_1.0.0.structuring.json",
+            "tags":[{ "tagName":"アイデア発想法" }]
         },
         {
             "id": "12",
             "name": "コトラーの「7つのO」",
-            "key": "コトラーの「7つのO」_1.0.0.structuring.json"
+            "key": "コトラーの「7つのO」_1.0.0.structuring.json",
+            "tags":[{ "tagName":"消費者行動分析" }]
         },
         {
             "id": "13",
             "name": "ホールプロダクト",
-            "key": "ホールプロダクト_1.0.0.structuring.json"
+            "key": "ホールプロダクト_1.0.0.structuring.json",
+            "tags":[{ "tagName":"要件分析" }]
         },
         {
             "id": "14",
             "name": "購買決定プロセス",
-            "key": "購買決定プロセス_1.0.0.structuring.json"
+            "key": "購買決定プロセス_1.0.0.structuring.json",
+            "tags":[{ "tagName":"プロセスモデル" }]
         },
         {
             "id": "15",
             "name": "分析の7つの切り口",
-            "key": "分析の7つの切り口_1.0.0.structuring.json"
+            "key": "分析の7つの切り口_1.0.0.structuring.json",
+            "tags":[]
         },
         {
             "id": "16",
             "name": "問題解決の四段論法",
-            "key": "問題解決の四段論法_1.0.0.structuring.json"
+            "key": "問題解決の四段論法_1.0.0.structuring.json",
+            "tags":[{ "tagName":"問題分析" }]
         }
     ]
 }
