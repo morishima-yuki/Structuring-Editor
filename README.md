@@ -1,13 +1,20 @@
 # Structuring-Editor  
 
 ## エディター  
-[Structuring-Editor](https://morishima-yuki.github.io/Structuring-Editor/tool/)  
+[Structuring-Editor](https://morishima-yuki.github.io/Structuring-Editor/tool/index.html)  
 
 ## Structuring Editorの始め方  
-  1. 以下のリンクから利用したいエディターテンプレートをダウンロードしてください  
-  [エディターテンプレート格納先](https://github.com/morishima-yuki/Structuring-Editor/tree/main/editor_template)  
+  1. 以下のリンクからエディターを開いてください
+    [Structuring-Editor](https://morishima-yuki.github.io/Structuring-Editor/tool/index.html)  
     
-  2. エディターを開いた後「ファイルを開く」を押下し、ダウンロードしたエディターテンプレートファイルをドラッグ&ドロップしてください。  
+  2. 任意のシートを選択をしてください。
   
-  3. 自由に記入していただいた後に記入した内容を保存したい場合、「HTMLで保存」或いは「JSONで保存」でダウンロード(保存)できます。
-     また、ダウンロードしたファイルに対して「手順2」を行うことで再度記入可能になります
+  3. シートを自由に記入していただいた後に、記入した内容を保存したい場合「HTMLでExport」或いは「JSONでExport」でダウンロード(保存)できます。
+
+## ダウンロードしたファイルのインポート  
+  1. 以下のリンクからエディターを開いてください
+    [Structuring-Editor](https://morishima-yuki.github.io/Structuring-Editor/tool/index.html)  
+
+  2. 「空のシート」を選択する。
+
+  3. 「Ixport」をクリックし「Structuring Editorの始め方 > 手順3」でダウンロードしたファイルをドラッグ&ドロップする
