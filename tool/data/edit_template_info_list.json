@@ -1,0 +1,79 @@
+{
+    "list":[
+        {
+            "id": "1",
+            "name": "6W2H",
+            "key": "6W2H_1.0.0.structuring.json"
+        },
+        {
+            "id": "2",
+            "name": "AIDMA",
+            "key": "AIDMA_1.0.0.structuring.json"
+        },
+        {
+            "id": "3",
+            "name": "ECRS",
+            "key": "ECRS_1.0.0.structuring.json"
+        },
+        {
+            "id": "4",
+            "name": "GROWモデル",
+            "key": "GROWモデル_1.0.0.structuring.json"
+        },
+        {
+            "id": "5",
+            "name": "PREP",
+            "key": "PREP_1.0.0.structuring.json"
+        },
+        {
+            "id": "6",
+            "name": "SMART",
+            "key": "SMART_1.0.0.structuring.json"
+        },
+        {
+            "id": "7",
+            "name": "SUCCESs",
+            "key": "SUCCESs_1.0.0.structuring.json"
+        },
+        {
+            "id": "8",
+            "name": "SWOT分析",
+            "key": "SWOT分析_1.0.0.structuring.json"
+        },
+        {
+            "id": "9",
+            "name": "VRIO分析",
+            "key": "VRIO分析_1.0.0.structuring.json"
+        },
+        {
+            "id": "10",
+            "name": "WBS",
+            "key": "WBS_1.0.0.structuring.json"
+        },
+        {
+            "id": "11",
+            "name": "オズボーンのチェックリスト",
+            "key": "オズボーンのチェックリスト_1.0.0.structuring.json"
+        },
+        {
+            "id": "12",
+            "name": "コトラーの「7つのO」",
+            "key": "コトラーの「7つのO」_1.0.0.structuring.json"
+        },
+        {
+            "id": "13",
+            "name": "ホールプロダクト",
+            "key": "ホールプロダクト_1.0.0.structuring.json"
+        },
+        {
+            "id": "14",
+            "name": "購買決定プロセス",
+            "key": "購買決定プロセス_1.0.0.structuring.json"
+        },
+        {
+            "id": "15",
+            "name": "分析の7つの切り口",
+            "key": "分析の7つの切り口_1.0.0.structuring.json"
+        }
+    ]
+}

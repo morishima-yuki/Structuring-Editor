@@ -1,0 +1,299 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 2,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 350
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "SUCCESs",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 31
+            },
+            "valueList": [
+                {
+                    "width": 200
+                },
+                {
+                    "width": 997
+                }
+            ]
+        },
+        "values": {
+            "title": "<p>項目</p>",
+            "valueList": [
+                {
+                    "value": "<p>評価</p>",
+                    "type": "quill"
+                },
+                {
+                    "value": "<p>改善の方向性</p>",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 97
+                },
+                "valueList": [
+                    {
+                        "width": 200
+                    },
+                    {
+                        "width": 997
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>単純 (Simple)</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    },
+                    {
+                        "value": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": []
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 97
+                },
+                "valueList": [
+                    {
+                        "width": 200
+                    },
+                    {
+                        "width": 997
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>意外性 (Unexpected)</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    },
+                    {
+                        "value": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": []
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 97
+                },
+                "valueList": [
+                    {
+                        "width": 200
+                    },
+                    {
+                        "width": 997
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>具体的 (Concrete)</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    },
+                    {
+                        "value": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": []
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 97
+                },
+                "valueList": [
+                    {
+                        "width": 200
+                    },
+                    {
+                        "width": 997
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>信頼性 (Credible)</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    },
+                    {
+                        "value": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": []
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 97
+                },
+                "valueList": [
+                    {
+                        "width": 200
+                    },
+                    {
+                        "width": 997
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>感情 (Emotional)</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    },
+                    {
+                        "value": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": []
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 97
+                },
+                "valueList": [
+                    {
+                        "width": 200
+                    },
+                    {
+                        "width": 997
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>物語 (Story)</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    },
+                    {
+                        "value": "<p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": []
+        }
+    ]
+}

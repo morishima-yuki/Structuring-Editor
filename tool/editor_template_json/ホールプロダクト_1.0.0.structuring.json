@@ -1,0 +1,698 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 1397
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "ホールプロダクト",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 31
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>コアプロダクト</p>",
+                "valueList": [],
+                "note": [
+                    {
+                        "value": "実際に出荷される製品\n購入契約書に記載されている機能"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>要件1</p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>機能1</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>機能2</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>要件2</p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>機能1</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>期待プロダクト</p>",
+                "valueList": [],
+                "note": [
+                    {
+                        "value": "顧客がコアプロダクトを購入するときに「こうであるはずだ」と考える製品\n購入目的を満足させる最低限の製品のサービスの集合体"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>要件1</p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>機能1</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>拡張プロダクト</p>",
+                "valueList": [],
+                "note": [
+                    {
+                        "value": "多くの付属品をつけてコアプロダクトの機能を拡張させたもの\n顧客の購入目的を最大限満たす製品"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>要件1</p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>機能1</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>理想プロダクト</p>",
+                "valueList": [],
+                "note": [
+                    {
+                        "value": "さらに多くの補助的な製品が市場に出たり、顧客独自の機能強化が施されたときに顧客に提供される機能の理論上上限。"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>要件1</p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>機能1</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

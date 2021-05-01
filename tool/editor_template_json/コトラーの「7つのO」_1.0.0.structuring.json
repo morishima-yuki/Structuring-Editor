@@ -1,0 +1,439 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 1457
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "コトラーの「7つのO」",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>ターゲット市場の構成要素</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Occupants (占有者)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "消費者はだれか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Objects (対象)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "何を必要とし、何を欲しているか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Objectives (目的)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "それによって何を満足させようとするのか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Organizations (組織)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "購入決定に参加しているのはだれか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Operations (作用)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "消費者はどのようにして購入を決定するか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Occasions (機会) </p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "消費者はいつ購入する準備ができているように見えるか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Outlets (販路) </p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "消費者はどこで購入したか"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

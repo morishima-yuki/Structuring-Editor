@@ -1,0 +1,239 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 1398
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "PREP",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>結論</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 119
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>理由</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 119
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>具体例</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 119
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>結論</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 119
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        }
+    ]
+}

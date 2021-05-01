@@ -1,0 +1,919 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 500
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "AIDMA",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 31
+            },
+            "valueList": [
+                {
+                    "width": 1130
+                }
+            ]
+        },
+        "values": {
+            "title": "<p>項目</p>",
+            "valueList": [
+                {
+                    "value": "<p>記入欄</p>",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1130
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": []
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1130
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>AIDMA</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1130
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">[認知段階]</span></p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1130
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><span style=\"color: rgb(255, 255, 255);\">1.認知</span></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": false,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客の状態</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客のニーズ</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">コミュニケーション施策の内容</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1130
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">[感情段階]</span></p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1130
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>2.関心</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": false,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客の状態</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客のニーズ</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">コミュニケーション施策の内容</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1130
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>3.欲求</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": false,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客の状態</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客のニーズ</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">コミュニケーション施策の内容</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1130
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>4.記憶</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": false,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客の状態</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客のニーズ</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">コミュニケーション施策の内容</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1130
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">[行動段階]</span></p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1130
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>5.購買（行動）</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": false,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客の状態</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">顧客のニーズ</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1130
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p><span style=\"color: rgb(136, 136, 136);\">コミュニケーション施策の内容</span></p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1130
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": []
+        }
+    ]
+}
