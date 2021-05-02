@@ -92,8 +92,8 @@
         },
         {
             "id": "16",
-            "name": "問題解決の四段論法",
-            "key": "問題解決の四段論法_1.0.0.structuring.json",
+            "name": "問題解決の三段論法+α",
+            "key": "問題解決の三段論法+α_1.0.0.structuring.json",
             "tags":[{ "tagName":"問題分析" }]
         },
         {
