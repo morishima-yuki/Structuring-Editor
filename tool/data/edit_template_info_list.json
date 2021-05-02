@@ -101,6 +101,12 @@
             "name": "共感マップ",
             "key": "共感マップ_1.0.0.structuring.json",
             "tags":[{ "tagName":"顧客分析" }]
+        },
+        {
+            "id": "18",
+            "name": "ロジックモデル",
+            "key": "ロジックモデル_1.0.0.structuring.json",
+            "tags":[]
         }
     ]
 }
