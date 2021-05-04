@@ -107,6 +107,12 @@
             "name": "ロジックモデル",
             "key": "ロジックモデル_1.0.0.structuring.json",
             "tags":[]
+        },
+        {
+            "id": "19",
+            "name": "STP分析",
+            "key": "STP分析_1.0.0.structuring.json",
+            "tags":[]
         }
     ]
 }
