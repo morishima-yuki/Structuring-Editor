@@ -1,7 +1,7 @@
 {
     "toolVesion": "0.0.1",
     "commonParameter": {
-        "columnsCount": 1,
+        "columnsCount": 0,
         "editMode": {
             "editModeConfigFixed": false,
             "columnsFixed": false,
@@ -14,7 +14,7 @@
             "titleOptionNotAvailable": false
         },
         "titleStyles": {
-            "width": 1000
+            "width": 1487
         }
     },
     "scriptInfo": {
@@ -31,20 +31,11 @@
             "title": {
                 "height": 29
             },
-            "valueList": [
-                {
-                    "width": 300
-                }
-            ]
+            "valueList": []
         },
         "values": {
             "title": "",
-            "valueList": [
-                {
-                    "value": "",
-                    "type": "quill"
-                }
-            ]
+            "valueList": []
         }
     },
     "childItems": [
@@ -53,21 +44,12 @@
                 "title": {
                     "height": 31
                 },
-                "valueList": [
-                    {
-                        "width": 300
-                    }
-                ]
+                "valueList": []
             },
             "values": {
                 "titleType": "",
                 "title": "<p>マクロ環境の動向</p>",
-                "valueList": [
-                    {
-                        "value": "",
-                        "type": "quill"
-                    }
-                ],
+                "valueList": [],
                 "note": []
             },
             "attribute": {
@@ -85,21 +67,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Politics(政治要因)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": [
                             {
                                 "value": "<p>規制などの市場のルールを変化させるもの</p>"
@@ -121,21 +94,12 @@
                                 "title": {
                                     "height": 31
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -154,21 +118,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -187,21 +142,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -220,21 +166,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -255,21 +192,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Economy(経済的要因)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": [
                             {
                                 "value": "<p>景気や経済成長などの価値連鎖に影響を与えるもの</p>"
@@ -291,21 +219,12 @@
                                 "title": {
                                     "height": 31
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -324,21 +243,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -357,21 +267,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -390,21 +291,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -425,21 +317,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Society(社会的要因)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": [
                             {
                                 "value": "<p>人口動態の変化など需要構造に影響を与えるもの</p>"
@@ -459,23 +342,14 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 29
+                                    "height": 31
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -494,21 +368,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -527,21 +392,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -560,21 +416,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -595,21 +442,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Technology(技術的要因)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": [
                             {
                                 "value": "<p>ITなどの競争ステージに影響を与えるもの</p>"
@@ -629,23 +467,14 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 29
+                                    "height": 31
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -664,21 +493,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -697,21 +517,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -730,21 +541,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
