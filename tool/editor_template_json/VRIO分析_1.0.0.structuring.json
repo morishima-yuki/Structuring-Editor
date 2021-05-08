@@ -29,7 +29,7 @@
     "headerItem": {
         "valuesStyles": {
             "title": {
-                "height": 31
+                "height": 30
             },
             "valueList": [
                 {
@@ -690,7 +690,7 @@
                     },
                     "values": {
                         "titleType": "",
-                        "title": "<p>経済価値 (V)</p>",
+                        "title": "<p>経済価値</p>",
                         "valueList": [
                             {
                                 "value": "",
