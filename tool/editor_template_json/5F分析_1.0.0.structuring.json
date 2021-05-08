@@ -71,33 +71,13 @@
                     },
                     "values": {
                         "titleType": "",
-                        "title": "",
-                        "valueList": [],
-                        "note": []
-                    },
-                    "attribute": {
-                        "metaInfo": [],
-                        "comment": [],
-                        "review": [],
-                        "changeHistory": [],
-                        "hideDate": "",
-                        "viewValueList": true,
-                        "viewChildItems": true
-                    },
-                    "childItems": []
-                },
-                {
-                    "valuesStyles": {
-                        "title": {
-                            "height": 31
-                        },
-                        "valueList": []
-                    },
-                    "values": {
-                        "titleType": "",
                         "title": "<p>新規参入の脅威</p>",
                         "valueList": [],
-                        "note": []
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>業界の参入障壁は高いか？ 今後参入してきそうな企業はあるか？</p><p><br></p>"
+                            }
+                        ]
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -112,13 +92,61 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 75
+                                    "height": 31
                                 },
                                 "valueList": []
                             },
                             "values": {
                                 "titleType": "",
-                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
                                 "valueList": [],
                                 "note": []
                             },
@@ -146,7 +174,11 @@
                         "titleType": "",
                         "title": "<p>売り手の脅威</p>",
                         "valueList": [],
-                        "note": []
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>サプライヤーとの力関係は？今後の見通しは？</p><p><br></p>"
+                            }
+                        ]
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -161,13 +193,61 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 75
+                                    "height": 31
                                 },
                                 "valueList": []
                             },
                             "values": {
                                 "titleType": "",
-                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
                                 "valueList": [],
                                 "note": []
                             },
@@ -195,7 +275,11 @@
                         "titleType": "",
                         "title": "<p>代替品の脅威</p>",
                         "valueList": [],
-                        "note": []
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>自社以外で顧客のニーズを満たせるサービス・商品があるか？</p><p><br></p>"
+                            }
+                        ]
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -210,13 +294,61 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 75
+                                    "height": 31
                                 },
                                 "valueList": []
                             },
                             "values": {
                                 "titleType": "",
-                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
                                 "valueList": [],
                                 "note": []
                             },
@@ -259,13 +391,61 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 75
+                                    "height": 31
                                 },
                                 "valueList": []
                             },
                             "values": {
                                 "titleType": "",
-                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
                                 "valueList": [],
                                 "note": []
                             },
@@ -308,13 +488,61 @@
                         {
                             "valuesStyles": {
                                 "title": {
-                                    "height": 75
+                                    "height": 31
                                 },
                                 "valueList": []
                             },
                             "values": {
                                 "titleType": "",
-                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
                                 "valueList": [],
                                 "note": []
                             },
