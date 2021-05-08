@@ -1,118 +1,206 @@
 {
-    "list":[
+    "list": [
         {
-            "id": "1",
+            "id": "10000",
             "name": "8W3H+1",
             "key": "8W3H+1_1.0.0.structuring.json",
-            "tags":[{ "tagName":"論理思考" }]
+            "tags": [
+                {
+                    "tagName": "論理思考"
+                }
+            ]
         },
         {
-            "id": "2",
-            "name": "AIDMA",
-            "key": "AIDMA_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "3",
-            "name": "ECRS",
-            "key": "ECRS_1.0.0.structuring.json",
-            "tags":[{ "tagName":"業務分析" }]
-        },
-        {
-            "id": "4",
-            "name": "GROWモデル",
-            "key": "GROWモデル_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "5",
-            "name": "PREP",
-            "key": "PREP_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "6",
-            "name": "SMART",
-            "key": "SMART_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "7",
-            "name": "SUCCESs",
-            "key": "SUCCESs_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "8",
-            "name": "SWOT分析",
-            "key": "SWOT分析_1.0.0.structuring.json",
-            "tags":[{ "tagName":"戦略立案" },{ "tagName":"要因分析" }]
-        },
-        {
-            "id": "9",
-            "name": "VRIO分析",
-            "key": "VRIO分析_1.0.0.structuring.json",
-            "tags":[{ "tagName":"戦略立案" },{ "tagName":"要因分析" }]
-        },
-        {
-            "id": "10",
+            "id": "20000",
             "name": "WBS",
             "key": "WBS_1.0.0.structuring.json",
-            "tags":[{ "tagName":"計画手法" }]
+            "tags": [
+                {
+                    "tagName": "計画手法"
+                }
+            ]
         },
         {
-            "id": "11",
-            "name": "オズボーンのチェックリスト",
-            "key": "オズボーンのチェックリスト_1.0.0.structuring.json",
-            "tags":[{ "tagName":"アイデア発想法" }]
+            "id": "30000",
+            "name": "PEST分析",
+            "key": "PEST分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "環境分析"
+                }
+            ]
         },
         {
-            "id": "12",
-            "name": "コトラーの「7つのO」",
-            "key": "コトラーの「7つのO」_1.0.0.structuring.json",
-            "tags":[{ "tagName":"消費者行動分析" }]
+            "id": "40000",
+            "name": "5F分析",
+            "key": "5F分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "環境分析"
+                }
+            ]
         },
         {
-            "id": "13",
-            "name": "ホールプロダクト",
-            "key": "ホールプロダクト_1.0.0.structuring.json",
-            "tags":[{ "tagName":"要件分析" }]
+            "id": "50000",
+            "name": "3C分析",
+            "key": "3C分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "環境分析"
+                }
+            ]
         },
         {
-            "id": "14",
-            "name": "購買決定プロセス",
-            "key": "購買決定プロセス_1.0.0.structuring.json",
-            "tags":[{ "tagName":"プロセスモデル" }]
+            "id": "60000",
+            "name": "SWOT分析",
+            "key": "SWOT分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "環境分析"
+                }
+            ]
         },
         {
-            "id": "15",
-            "name": "分析の7つの切り口",
-            "key": "分析の7つの切り口_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "16",
-            "name": "問題解決の三段論法+α",
-            "key": "問題解決の三段論法+α_1.0.0.structuring.json",
-            "tags":[{ "tagName":"問題分析" }]
-        },
-        {
-            "id": "17",
-            "name": "共感マップ",
-            "key": "共感マップ_1.0.0.structuring.json",
-            "tags":[{ "tagName":"顧客分析" }]
-        },
-        {
-            "id": "18",
-            "name": "ロジックモデル",
-            "key": "ロジックモデル_1.0.0.structuring.json",
-            "tags":[]
-        },
-        {
-            "id": "19",
+            "id": "70000",
             "name": "STP分析",
             "key": "STP分析_1.0.0.structuring.json",
-            "tags":[]
+            "tags": [
+                {
+                    "tagName": "戦略立案"
+                }
+            ]
+        },
+        {
+            "id": "80000",
+            "name": "4P分析",
+            "key": "4P分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "施策立案"
+                }
+            ]
+        },
+        {
+            "id": "90000",
+            "name": "AIDMA",
+            "key": "AIDMA_1.0.0.structuring.json",
+            "tags": []
+        },
+        {
+            "id": "100000",
+            "name": "ECRS",
+            "key": "ECRS_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "業務分析"
+                }
+            ]
+        },
+        {
+            "id": "110000",
+            "name": "GROWモデル",
+            "key": "GROWモデル_1.0.0.structuring.json",
+            "tags": []
+        },
+        {
+            "id": "120000",
+            "name": "PREP",
+            "key": "PREP_1.0.0.structuring.json",
+            "tags": []
+        },
+        {
+            "id": "130000",
+            "name": "SMART",
+            "key": "SMART_1.0.0.structuring.json",
+            "tags": []
+        },
+        {
+            "id": "140000",
+            "name": "SUCCESs",
+            "key": "SUCCESs_1.0.0.structuring.json",
+            "tags": []
+        },
+        {
+            "id": "150000",
+            "name": "VRIO分析",
+            "key": "VRIO分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "環境分析"
+                }
+            ]
+        },
+        {
+            "id": "160000",
+            "name": "オズボーンのチェックリスト",
+            "key": "オズボーンのチェックリスト_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "アイデア発想法"
+                }
+            ]
+        },
+        {
+            "id": "170000",
+            "name": "コトラーの「7つのO」",
+            "key": "コトラーの「7つのO」_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "消費者行動分析"
+                }
+            ]
+        },
+        {
+            "id": "180000",
+            "name": "ホールプロダクト",
+            "key": "ホールプロダクト_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "要件分析"
+                }
+            ]
+        },
+        {
+            "id": "190000",
+            "name": "購買決定プロセス",
+            "key": "購買決定プロセス_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "プロセスモデル"
+                }
+            ]
+        },
+        {
+            "id": "200000",
+            "name": "分析の7つの切り口",
+            "key": "分析の7つの切り口_1.0.0.structuring.json",
+            "tags": []
+        },
+        {
+            "id": "210000",
+            "name": "問題解決の三段論法+α",
+            "key": "問題解決の三段論法+α_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "問題分析"
+                }
+            ]
+        },
+        {
+            "id": "220000",
+            "name": "共感マップ",
+            "key": "共感マップ_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "顧客分析"
+                }
+            ]
+        },
+        {
+            "id": "230000",
+            "name": "ロジックモデル",
+            "key": "ロジックモデル_1.0.0.structuring.json",
+            "tags": []
         }
     ]
 }
