@@ -1,7 +1,7 @@
 {
     "toolVesion": "0.0.1",
     "commonParameter": {
-        "columnsCount": 1,
+        "columnsCount": 0,
         "editMode": {
             "editModeConfigFixed": false,
             "columnsFixed": false,
@@ -14,7 +14,7 @@
             "titleOptionNotAvailable": false
         },
         "titleStyles": {
-            "width": 1000
+            "width": 1487
         }
     },
     "scriptInfo": {
@@ -31,20 +31,11 @@
             "title": {
                 "height": 29
             },
-            "valueList": [
-                {
-                    "width": 300
-                }
-            ]
+            "valueList": []
         },
         "values": {
             "title": "",
-            "valueList": [
-                {
-                    "value": "",
-                    "type": "quill"
-                }
-            ]
+            "valueList": []
         }
     },
     "childItems": [
@@ -53,21 +44,12 @@
                 "title": {
                     "height": 29
                 },
-                "valueList": [
-                    {
-                        "width": 300
-                    }
-                ]
+                "valueList": []
             },
             "values": {
                 "titleType": "",
                 "title": "",
-                "valueList": [
-                    {
-                        "value": "",
-                        "type": "quill"
-                    }
-                ],
+                "valueList": [],
                 "note": []
             },
             "attribute": {
@@ -85,21 +67,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Product(製品)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": []
                     },
                     "attribute": {
@@ -117,21 +90,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -150,21 +114,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -183,21 +138,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -216,21 +162,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -251,21 +188,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Price(価格)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": []
                     },
                     "attribute": {
@@ -283,21 +211,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -316,21 +235,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -349,21 +259,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -382,21 +283,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -417,21 +309,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Place(流通)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": []
                     },
                     "attribute": {
@@ -449,21 +332,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -482,21 +356,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -515,21 +380,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -548,21 +404,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -583,21 +430,12 @@
                         "title": {
                             "height": 31
                         },
-                        "valueList": [
-                            {
-                                "width": 300
-                            }
-                        ]
+                        "valueList": []
                     },
                     "values": {
                         "titleType": "",
                         "title": "<p>Promotion(プロモーション)</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
+                        "valueList": [],
                         "note": []
                     },
                     "attribute": {
@@ -615,21 +453,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -648,21 +477,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -681,21 +501,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
@@ -714,21 +525,12 @@
                                 "title": {
                                     "height": 29
                                 },
-                                "valueList": [
-                                    {
-                                        "width": 300
-                                    }
-                                ]
+                                "valueList": []
                             },
                             "values": {
                                 "titleType": "",
                                 "title": "",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
+                                "valueList": [],
                                 "note": []
                             },
                             "attribute": {
