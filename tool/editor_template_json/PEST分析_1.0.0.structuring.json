@@ -1,0 +1,370 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 1000
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "PEST分析",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": [
+                {
+                    "width": 300
+                }
+            ]
+        },
+        "values": {
+            "title": "",
+            "valueList": [
+                {
+                    "value": "",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 300
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>マクロ環境の動向</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Politics(政治要因)</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p>規制などの市場のルールを変化させるもの</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Economy(経済的要因)</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p>景気や経済成長などの価値連鎖に影響を与えるもの</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Society(社会的要因)</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p>人口動態の変化など需要構造に影響を与えるもの</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Technology(技術的要因)</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p>ITなどの競争ステージに影響を与えるもの</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

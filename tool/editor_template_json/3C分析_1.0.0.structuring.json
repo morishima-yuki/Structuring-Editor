@@ -1,0 +1,683 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false
+        },
+        "titleStyles": {
+            "width": 1000
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "3C分析",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": [
+                {
+                    "width": 300
+                }
+            ]
+        },
+        "values": {
+            "title": "",
+            "valueList": [
+                {
+                    "value": "",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 29
+                },
+                "valueList": [
+                    {
+                        "width": 300
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>競合</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>顧客</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 300
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>自社</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 300
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
