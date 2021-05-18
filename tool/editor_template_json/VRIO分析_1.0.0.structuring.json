@@ -1,0 +1,1646 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable":false,
+            "sheetIdFixed":false
+        },
+        "titleStyles": {
+            "width": 500
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "VRIO分析",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 30
+            },
+            "valueList": [
+                {
+                    "width": 1174
+                }
+            ]
+        },
+        "values": {
+            "title": "<p>項目</p>",
+            "valueList": [
+                {
+                    "value": "<p>記入欄</p>",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>人材</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>技術開発</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>資金調達</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>製造</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>物流</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>企画</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>販売</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        },
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1174
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>サービス</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>経済価値</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>希少性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>模倣困難性</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>組織</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1174
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>今後の対策と方針</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                }
+            ]
+        }
+    ]
+}

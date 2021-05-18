@@ -1,0 +1,544 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable":false,
+            "sheetIdFixed":false
+        },
+        "titleStyles": {
+            "width": 1636
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "STP分析",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>テーマ</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 29
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>セグメンテーション</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "市場を細分化する"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>細分化</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>ターゲティング</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "細分化した市場の中でどの市場を狙うか決める"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>細分化</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>ポジショニング</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "ターゲティングした市場での自社の立ち位置を決める"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>細分化</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

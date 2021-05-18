@@ -1,0 +1,549 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 1607
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "ロジックモデル",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>ロジックモデル</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>インパクト(波及効果)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "事業活動の直接の結果がもたらす以下の事項\n 1.学び\n 2.変化\n 3.便益、状態、そのほか効果\n\nサービスにより産み出される社会的・環境的な価値など"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>最終アウトカム</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>中期アウトカム</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>初期アウトカム</p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>アウトプット(直接の結果)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "事業を通じて提供するサービスなどの\n事業や活動の直接の結果"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>アクティビティ(活動)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "事業を通じて提供するサービスなどを生み出すための具体的な事業活動\n社会的企業のスタッフが実際に従事する具体的業務"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>インプット(資源)</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "事業を実施するために必要な資金や人材などの資源"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
