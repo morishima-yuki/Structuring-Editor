@@ -12,8 +12,8 @@
             "valuesValueFixed": false,
             "itemJsonViewNotAvailable": true,
             "titleOptionNotAvailable": false,
-            "valuesOptionNotAvailable":false,
-            "sheetIdFixed":false
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
         },
         "titleStyles": {
             "width": 1643
@@ -107,7 +107,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -156,7 +156,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -205,7 +205,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -254,7 +254,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -352,7 +352,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -450,7 +450,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -499,7 +499,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
@@ -548,7 +548,7 @@
                         "review": [],
                         "changeHistory": [],
                         "hideDate": "",
-                        "viewValueList": false,
+                        "viewValueList": true,
                         "viewChildItems": true
                     },
                     "childItems": [
