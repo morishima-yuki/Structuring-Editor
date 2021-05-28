@@ -112,7 +112,11 @@
             "id": "130000",
             "name": "SMART",
             "key": "SMART_1.0.0.structuring.json",
-            "tags": []
+            "tags": [
+                {
+                    "tagName": "目標設定"
+                }
+            ]
         },
         {
             "id": "140000",
