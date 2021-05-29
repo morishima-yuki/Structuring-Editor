@@ -215,6 +215,16 @@
             "name": "ロジックモデル",
             "key": "ロジックモデル_1.0.0.structuring.json",
             "tags": []
+        },
+        {
+            "id": "240000",
+            "name": "FABE分析",
+            "key": "FABE分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "製品分析"
+                }
+            ]
         }
     ]
 }
