@@ -1,0 +1,382 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 350
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "PMSマップ",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 31
+            },
+            "valueList": [
+                {
+                    "width": 1384
+                }
+            ]
+        },
+        "values": {
+            "title": "<p>項目</p>",
+            "valueList": [
+                {
+                    "value": "<p>記入欄</p>",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 75
+                },
+                "valueList": [
+                    {
+                        "width": 1384
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p><br></p><p>テーマ</p><p><br></p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": [
+                    {
+                        "value": "<p><br></p><p>ブルーオーシャン戦略における事業ポートフォリオを整理する</p><p><br></p>"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1384
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>現在</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1384
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p>Pioneer</p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>先例のない革新的なブルーオーシャン事業</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1384
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p>Migrator</p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>競合他社より優位性のある事業</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1384
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p>Setter</p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>コモディティ化した事業</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1384
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>将来</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1384
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p>Pioneer</p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>先例のない革新的なブルーオーシャン事業</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1384
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p>Migrator</p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>競合他社より優位性のある事業</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 75
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1384
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p>Setter</p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>コモディティ化した事業</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
