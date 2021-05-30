@@ -102,40 +102,11 @@
                                 "type": "quill"
                             }
                         ],
-                        "note": []
-                    },
-                    "attribute": {
-                        "metaInfo": [],
-                        "comment": [],
-                        "review": [],
-                        "changeHistory": [],
-                        "hideDate": "",
-                        "viewValueList": true,
-                        "viewChildItems": true
-                    },
-                    "childItems": []
-                },
-                {
-                    "valuesStyles": {
-                        "title": {
-                            "height": 31
-                        },
-                        "valueList": [
+                        "note": [
                             {
-                                "width": 1352
+                                "value": "<p><br></p><p>現状何がどうなっているかを特定する</p><p>客観的事実に焦点をあてるため、定量的事象が示されることが多い</p><p><br></p>"
                             }
                         ]
-                    },
-                    "values": {
-                        "titleType": "",
-                        "title": "<p>原因</p>",
-                        "valueList": [
-                            {
-                                "value": "",
-                                "type": "quill"
-                            }
-                        ],
-                        "note": []
                     },
                     "attribute": {
                         "metaInfo": [],
@@ -160,7 +131,7 @@
                             },
                             "values": {
                                 "titleType": "",
-                                "title": "<p>原因1</p>",
+                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">現状概要</span></p>",
                                 "valueList": [
                                     {
                                         "value": "",
@@ -192,7 +163,7 @@
                                     },
                                     "values": {
                                         "titleType": "",
-                                        "title": "<p>原因1.1</p>",
+                                        "title": "<p>現状詳細1</p>",
                                         "valueList": [
                                             {
                                                 "value": "",
@@ -210,7 +181,74 @@
                                         "viewValueList": true,
                                         "viewChildItems": true
                                     },
-                                    "childItems": []
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">現状詳細</span>1.1</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">現状詳細</span>1.2</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "valuesStyles": {
@@ -225,7 +263,7 @@
                                     },
                                     "values": {
                                         "titleType": "",
-                                        "title": "<p>原因1.2</p>",
+                                        "title": "<p>現状詳細2</p>",
                                         "valueList": [
                                             {
                                                 "value": "",
@@ -243,107 +281,74 @@
                                         "viewValueList": true,
                                         "viewChildItems": true
                                     },
-                                    "childItems": []
-                                }
-                            ]
-                        },
-                        {
-                            "valuesStyles": {
-                                "title": {
-                                    "height": 31
-                                },
-                                "valueList": [
-                                    {
-                                        "width": 1352
-                                    }
-                                ]
-                            },
-                            "values": {
-                                "titleType": "",
-                                "title": "<p>原因2</p>",
-                                "valueList": [
-                                    {
-                                        "value": "",
-                                        "type": "quill"
-                                    }
-                                ],
-                                "note": []
-                            },
-                            "attribute": {
-                                "metaInfo": [],
-                                "comment": [],
-                                "review": [],
-                                "changeHistory": [],
-                                "hideDate": "",
-                                "viewValueList": true,
-                                "viewChildItems": true
-                            },
-                            "childItems": [
-                                {
-                                    "valuesStyles": {
-                                        "title": {
-                                            "height": 31
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">現状詳細</span>2.1</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
                                         },
-                                        "valueList": [
-                                            {
-                                                "width": 1352
-                                            }
-                                        ]
-                                    },
-                                    "values": {
-                                        "titleType": "",
-                                        "title": "<p>原因2.1</p>",
-                                        "valueList": [
-                                            {
-                                                "value": "",
-                                                "type": "quill"
-                                            }
-                                        ],
-                                        "note": []
-                                    },
-                                    "attribute": {
-                                        "metaInfo": [],
-                                        "comment": [],
-                                        "review": [],
-                                        "changeHistory": [],
-                                        "hideDate": "",
-                                        "viewValueList": true,
-                                        "viewChildItems": true
-                                    },
-                                    "childItems": []
-                                },
-                                {
-                                    "valuesStyles": {
-                                        "title": {
-                                            "height": 31
-                                        },
-                                        "valueList": [
-                                            {
-                                                "width": 1352
-                                            }
-                                        ]
-                                    },
-                                    "values": {
-                                        "titleType": "",
-                                        "title": "<p>原因2.2</p>",
-                                        "valueList": [
-                                            {
-                                                "value": "",
-                                                "type": "quill"
-                                            }
-                                        ],
-                                        "note": []
-                                    },
-                                    "attribute": {
-                                        "metaInfo": [],
-                                        "comment": [],
-                                        "review": [],
-                                        "changeHistory": [],
-                                        "hideDate": "",
-                                        "viewValueList": true,
-                                        "viewChildItems": true
-                                    },
-                                    "childItems": []
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">現状詳細</span>2.2</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        }
+                                    ]
                                 }
                             ]
                         }
@@ -516,7 +521,208 @@
                                 "viewValueList": true,
                                 "viewChildItems": true
                             },
-                            "childItems": []
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1352
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p>原因<span style=\"background-color: rgb(40, 40, 40);\">1.</span>1</p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因1.1.1</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因1.1.2</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1352
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p>原因<span style=\"background-color: rgb(40, 40, 40);\">1.</span>2</p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因1.2.1</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因1.2.2</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        }
+                                    ]
+                                }
+                            ]
                         },
                         {
                             "valuesStyles": {
@@ -549,7 +755,208 @@
                                 "viewValueList": true,
                                 "viewChildItems": true
                             },
-                            "childItems": []
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1352
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p>原因2<span style=\"background-color: rgb(40, 40, 40);\">.</span>1</p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因<span style=\"background-color: rgb(34, 34, 34);\">2</span>.1.1</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因<span style=\"background-color: rgb(34, 34, 34);\">2</span>.1.2</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        }
+                                    ]
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": [
+                                            {
+                                                "width": 1352
+                                            }
+                                        ]
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p>原因2<span style=\"background-color: rgb(40, 40, 40);\">.</span>2</p>",
+                                        "valueList": [
+                                            {
+                                                "value": "",
+                                                "type": "quill"
+                                            }
+                                        ],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因<span style=\"background-color: rgb(34, 34, 34);\">2</span>.2.1</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": [
+                                                    {
+                                                        "width": 1352
+                                                    }
+                                                ]
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>原因<span style=\"background-color: rgb(34, 34, 34);\">2</span>.2.2</p>",
+                                                "valueList": [
+                                                    {
+                                                        "value": "",
+                                                        "type": "quill"
+                                                    }
+                                                ],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        }
+                                    ]
+                                }
+                            ]
                         }
                     ]
                 },
