@@ -235,6 +235,16 @@
                     "tagName": "技術選定"
                 }
             ]
+        },
+        {
+            "id": "260000",
+            "name": "PMSマップ",
+            "key": "PMSマップ_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "事業ポートフォリオ分析"
+                }
+            ]
         }
     ]
 }
