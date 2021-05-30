@@ -18,3 +18,6 @@
   2. 「空のシート」を選択する。  
 
   3. 「Import」をクリックし「Structuring Editorの始め方 > 手順3」でダウンロードしたファイルをドラッグ&ドロップする。  
+
+## サンプル 
+  1. [「できません」を伝えるチェックリスト](https://morishima-yuki.github.io/Structuring-Editor/tool/sample/「できません」を伝えるチェックリスト_1.0.0.structuring.html)
