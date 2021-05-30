@@ -1,0 +1,556 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 1726
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "オニオンモデル",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>テーマ</p>",
+                "valueList": [],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 29
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "",
+                        "valueList": [],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": []
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>社会・環境</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<ul><li>ビジネス/企業のビジョンは社会にどうかかわり必要とされるのか。</li><li>倫理的、法的な要請に背いていないか。背くようなリスクがないか。</li><li>コミュニティを通じた支援が期待できるか。</li><li>社会を通じた採用・調達にとってどれだけ期待できるか。</li><li>政治・環境・経済動向・技術革新などのなかでどのような関連する潮流があるか。</li><li>フレームワーク：PEST分析など</li></ul>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>顧客</p>",
+                                "valueList": [],
+                                "note": [
+                                    {
+                                        "value": "<ul><li>顧客にとってのコアな価値とはなにか。</li><li>顧客の利益、価値、フェアネスに対して問題のある方法ではないか。</li><li>顧客のニーズの変化、マーケットの変化に対して対応できる手法か。</li><li>フレームワーク：3C分析、4P分析など</li></ul>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": [
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 29
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "",
+                                        "valueList": [],
+                                        "note": []
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": []
+                                },
+                                {
+                                    "valuesStyles": {
+                                        "title": {
+                                            "height": 31
+                                        },
+                                        "valueList": []
+                                    },
+                                    "values": {
+                                        "titleType": "",
+                                        "title": "<p>企業</p>",
+                                        "valueList": [],
+                                        "note": [
+                                            {
+                                                "value": "<ul><li>なぜ利益が生まれるビジネスなのか。</li><li>ビジネス上不利益、利益相反、競合になるリスクがないか。</li><li>ビジネス上のKPIや成功要因を阻害しないか。</li><li>今後の事業の発展、縮小にとってブレーキ要因にならないか。</li><li>今後の事業の横展開、ピボットに対してブレーキ要因にならないか。</li><li>フレームワーク：ビジネスモデル可視化、ビジネス環境分析</li></ul>"
+                                            }
+                                        ]
+                                    },
+                                    "attribute": {
+                                        "metaInfo": [],
+                                        "comment": [],
+                                        "review": [],
+                                        "changeHistory": [],
+                                        "hideDate": "",
+                                        "viewValueList": true,
+                                        "viewChildItems": true
+                                    },
+                                    "childItems": [
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 29
+                                                },
+                                                "valueList": []
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "",
+                                                "valueList": [],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 29
+                                                },
+                                                "valueList": []
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "",
+                                                "valueList": [],
+                                                "note": []
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": []
+                                        },
+                                        {
+                                            "valuesStyles": {
+                                                "title": {
+                                                    "height": 31
+                                                },
+                                                "valueList": []
+                                            },
+                                            "values": {
+                                                "titleType": "",
+                                                "title": "<p>業務、ユーザ</p>",
+                                                "valueList": [],
+                                                "note": [
+                                                    {
+                                                        "value": "<ul><li>自社のオペレーションはどうなっているのか。</li><li>業務負担、運用負担のかかるものではないか。</li><li>現状、および将来の業務にフィットしているか。</li><li>将来の業務改善をスムースに行うことができるか。</li><li>フレームワーク：ビジネスプロセスの記述、BPR、イベントストーミング</li></ul>"
+                                                    }
+                                                ]
+                                            },
+                                            "attribute": {
+                                                "metaInfo": [],
+                                                "comment": [],
+                                                "review": [],
+                                                "changeHistory": [],
+                                                "hideDate": "",
+                                                "viewValueList": true,
+                                                "viewChildItems": true
+                                            },
+                                            "childItems": [
+                                                {
+                                                    "valuesStyles": {
+                                                        "title": {
+                                                            "height": 29
+                                                        },
+                                                        "valueList": []
+                                                    },
+                                                    "values": {
+                                                        "titleType": "",
+                                                        "title": "",
+                                                        "valueList": [],
+                                                        "note": []
+                                                    },
+                                                    "attribute": {
+                                                        "metaInfo": [],
+                                                        "comment": [],
+                                                        "review": [],
+                                                        "changeHistory": [],
+                                                        "hideDate": "",
+                                                        "viewValueList": true,
+                                                        "viewChildItems": true
+                                                    },
+                                                    "childItems": []
+                                                },
+                                                {
+                                                    "valuesStyles": {
+                                                        "title": {
+                                                            "height": 29
+                                                        },
+                                                        "valueList": []
+                                                    },
+                                                    "values": {
+                                                        "titleType": "",
+                                                        "title": "",
+                                                        "valueList": [],
+                                                        "note": []
+                                                    },
+                                                    "attribute": {
+                                                        "metaInfo": [],
+                                                        "comment": [],
+                                                        "review": [],
+                                                        "changeHistory": [],
+                                                        "hideDate": "",
+                                                        "viewValueList": true,
+                                                        "viewChildItems": true
+                                                    },
+                                                    "childItems": []
+                                                },
+                                                {
+                                                    "valuesStyles": {
+                                                        "title": {
+                                                            "height": 31
+                                                        },
+                                                        "valueList": []
+                                                    },
+                                                    "values": {
+                                                        "titleType": "",
+                                                        "title": "<p>ITシステム</p>",
+                                                        "valueList": [],
+                                                        "note": [
+                                                            {
+                                                                "value": "<ul><li>上位の要求に対して、情報システム・プロダクトサービスはどのような特性を備えるべきか。</li><li>それを実現する組織や開発体制・運用体制はどのようなものか。</li><li>開発者の採用、育成、調達はどのように実現するか。</li><li>ソフトウェア上の意思決定をどのように伝承・伝達していくか。</li><li>フレームワーク；品質特性マトリクス、可変性分析、アーキテクチャ適応度のシナリオ分析</li></ul>"
+                                                            }
+                                                        ]
+                                                    },
+                                                    "attribute": {
+                                                        "metaInfo": [],
+                                                        "comment": [],
+                                                        "review": [],
+                                                        "changeHistory": [],
+                                                        "hideDate": "",
+                                                        "viewValueList": true,
+                                                        "viewChildItems": true
+                                                    },
+                                                    "childItems": [
+                                                        {
+                                                            "valuesStyles": {
+                                                                "title": {
+                                                                    "height": 31
+                                                                },
+                                                                "valueList": []
+                                                            },
+                                                            "values": {
+                                                                "titleType": "",
+                                                                "title": "",
+                                                                "valueList": [],
+                                                                "note": []
+                                                            },
+                                                            "attribute": {
+                                                                "metaInfo": [],
+                                                                "comment": [],
+                                                                "review": [],
+                                                                "changeHistory": [],
+                                                                "hideDate": "",
+                                                                "viewValueList": true,
+                                                                "viewChildItems": true
+                                                            },
+                                                            "childItems": []
+                                                        },
+                                                        {
+                                                            "valuesStyles": {
+                                                                "title": {
+                                                                    "height": 29
+                                                                },
+                                                                "valueList": []
+                                                            },
+                                                            "values": {
+                                                                "titleType": "",
+                                                                "title": "",
+                                                                "valueList": [],
+                                                                "note": []
+                                                            },
+                                                            "attribute": {
+                                                                "metaInfo": [],
+                                                                "comment": [],
+                                                                "review": [],
+                                                                "changeHistory": [],
+                                                                "hideDate": "",
+                                                                "viewValueList": true,
+                                                                "viewChildItems": true
+                                                            },
+                                                            "childItems": []
+                                                        },
+                                                        {
+                                                            "valuesStyles": {
+                                                                "title": {
+                                                                    "height": 31
+                                                                },
+                                                                "valueList": []
+                                                            },
+                                                            "values": {
+                                                                "titleType": "",
+                                                                "title": "<p>ソフトウェア</p>",
+                                                                "valueList": [],
+                                                                "note": [
+                                                                    {
+                                                                        "value": "<ul><li>上位の要求に対して、ソフトウェアはどのような品質特性を具体的に持つべきなのか。</li><li>それらを実現するために開発者はどのような設計にするか</li><li>フレームワーク：CRC分析、デザイン・アーキテクチャパターン、プロトタイピング</li></ul>"
+                                                                    }
+                                                                ]
+                                                            },
+                                                            "attribute": {
+                                                                "metaInfo": [],
+                                                                "comment": [],
+                                                                "review": [],
+                                                                "changeHistory": [],
+                                                                "hideDate": "",
+                                                                "viewValueList": true,
+                                                                "viewChildItems": true
+                                                            },
+                                                            "childItems": [
+                                                                {
+                                                                    "valuesStyles": {
+                                                                        "title": {
+                                                                            "height": 29
+                                                                        },
+                                                                        "valueList": []
+                                                                    },
+                                                                    "values": {
+                                                                        "titleType": "",
+                                                                        "title": "",
+                                                                        "valueList": [],
+                                                                        "note": []
+                                                                    },
+                                                                    "attribute": {
+                                                                        "metaInfo": [],
+                                                                        "comment": [],
+                                                                        "review": [],
+                                                                        "changeHistory": [],
+                                                                        "hideDate": "",
+                                                                        "viewValueList": true,
+                                                                        "viewChildItems": true
+                                                                    },
+                                                                    "childItems": []
+                                                                },
+                                                                {
+                                                                    "valuesStyles": {
+                                                                        "title": {
+                                                                            "height": 29
+                                                                        },
+                                                                        "valueList": []
+                                                                    },
+                                                                    "values": {
+                                                                        "titleType": "",
+                                                                        "title": "",
+                                                                        "valueList": [],
+                                                                        "note": []
+                                                                    },
+                                                                    "attribute": {
+                                                                        "metaInfo": [],
+                                                                        "comment": [],
+                                                                        "review": [],
+                                                                        "changeHistory": [],
+                                                                        "hideDate": "",
+                                                                        "viewValueList": true,
+                                                                        "viewChildItems": true
+                                                                    },
+                                                                    "childItems": []
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
