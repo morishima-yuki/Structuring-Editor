@@ -245,6 +245,16 @@
                     "tagName": "事業ポートフォリオ分析"
                 }
             ]
+        },
+        {
+            "id": "270000",
+            "name": "TNPREPの法則",
+            "key": "TNPREPの法則_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "伝える技術"
+                }
+            ]
         }
     ]
 }
