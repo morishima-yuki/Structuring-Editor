@@ -1,0 +1,557 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 1726
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "ゴールデンサークル理論による行動促進",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 29
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>伝える順番</p>",
+                "valueList": [],
+                "note": [
+                    {
+                        "value": "<p><span style=\"color: rgb(240, 102, 102);\">人は、何を(what)ではなく、なぜ(why)に心を動かさせる</span></p>"
+                    },
+                    {
+                        "value": "<p>(例)</p><p>1.Why</p><p>我々のすることは全て、世界を変えるという信念で行っています。異なる考え方に価値があると信じています</p><p><br></p><p>2.How</p><p>私たちが世界を変える手段は、美しくデザインされ、簡単に使え、親しみやすい製品です</p><p><br></p><p>3.What</p><p>こうして素晴らしいコンピュータが出来上がりました。一ついかがですか？</p><p><br></p>"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": true,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>1.Why</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p>自分がいましていることを、しているWHY（理由）。</p><p><br></p><p>ここで留意するべきことは、このWHYには｢お金を稼ぐため｣という理由は含まれないということ</p><p><br></p><p>聞き手が共感できる自身の信念・価値観を語る。</p><p>どんな経験をしてその信念にたどり着いたのか、など</p><p><br></p>"
+                            },
+                            {
+                                "value": "<p>ニューロ・ロジカル・レベル：信念・価値観</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>2.How</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p>自分がしていることのHOW（手法）。｢価値観に差異を持たせる｣｢独自の工程｣｢ユニークな販売計画｣など、他とは違う方法、よりよい方法。</p><p><br></p><p>そのビジネスはどうやって聞き手を幸せに導くのか</p><p>信念・価値観から生まれるビジネスの能力を聞き手にとってのベネフィットで語る。</p><p>どうやって「未来の幸せ」を手に入れることができるのか、聞き手の課題と解決策を語る。聞き手の「未来の幸せ」を紹介することが重要</p>"
+                            },
+                            {
+                                "value": "<p>ニューロ・ロジカル・レベル：能力</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>3.What</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p>企業や組織がWHAT（していること）。つまり、自社製品やサービスのこと。いわば、企業や組織にとっては明確に説明できること。</p><p><br></p><p>具体的なビジネスの内容や聞き手にとってほしい行動を語る。</p>"
+                            },
+                            {
+                                "value": "<p>ニューロ・ロジカル・レベル：行動</p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 29
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
