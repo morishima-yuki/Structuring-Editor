@@ -84,7 +84,11 @@
             "id": "90000",
             "name": "AIDMA",
             "key": "AIDMA_1.0.0.structuring.json",
-            "tags": []
+            "tags": [
+                {
+                    "tagName": "消費者行動分析"
+                }
+            ]
         },
         {
             "id": "100000",
@@ -100,13 +104,24 @@
             "id": "110000",
             "name": "GROWモデル",
             "key": "GROWモデル_1.0.0.structuring.json",
-            "tags": []
+            "tags": [
+                {
+                    "tagName": "目標設定"
+                },
+                {
+                    "tagName": "問題解決"
+                }
+            ]
         },
         {
             "id": "120000",
             "name": "PREP",
             "key": "PREP_1.0.0.structuring.json",
-            "tags": []
+            "tags": [
+                {
+                    "tagName": "伝える技術"
+                }
+            ]
         },
         {
             "id": "130000",
@@ -122,7 +137,11 @@
             "id": "140000",
             "name": "SUCCESs",
             "key": "SUCCESs_1.0.0.structuring.json",
-            "tags": []
+            "tags": [
+                {
+                    "tagName": "アイデア評価"
+                }
+            ]
         },
         {
             "id": "150000",
@@ -170,7 +189,7 @@
             "key": "購買決定プロセス_1.0.0.structuring.json",
             "tags": [
                 {
-                    "tagName": "プロセスモデル"
+                    "tagName": "消費者行動分析"
                 }
             ]
         },
@@ -214,7 +233,11 @@
             "id": "230000",
             "name": "ロジックモデル",
             "key": "ロジックモデル_1.0.0.structuring.json",
-            "tags": []
+            "tags": [
+                {
+                    "tagName": "目標設定"
+                }
+            ]
         },
         {
             "id": "240000",
