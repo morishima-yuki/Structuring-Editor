@@ -6,6 +6,7 @@
             "editModeConfigFixed": false,
             "columnsFixed": false,
             "recordFixed": false,
+            "recordHideModeFixed":false,
             "headerValueFixed": false,
             "titleValueFixed": false,
             "valuesHideModeFixed": false,
