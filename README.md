@@ -3,6 +3,9 @@
 ## エディター  
 [Structuring-Editor](https://morishima-yuki.github.io/Structuring-Editor/tool/)  
 
+## ガイド
+[Structuring-Editorガイド](https://morishima-yuki.github.io/Structuring-Editor/manual/)  
+
 ## Structuring Editorの始め方   
   1. 以下のリンクからエディターを開いてください。  
     [Structuring-Editor](https://morishima-yuki.github.io/Structuring-Editor/tool/)    
