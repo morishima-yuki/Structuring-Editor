@@ -1,0 +1,1250 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "recordHideModeFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 350
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "ユースケース記述",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 31
+            },
+            "valueList": [
+                {
+                    "width": 1208
+                }
+            ]
+        },
+        "values": {
+            "title": "<p>項目</p>",
+            "valueList": [
+                {
+                    "value": "<p>記入欄</p>",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 31
+                },
+                "valueList": [
+                    {
+                        "width": 1208
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>ユースケース記述</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": []
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1208
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><span style=\"background-color: rgb(40, 40, 40);\">ユースケース名</span></p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>ZするためにYをXする</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>概要</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>アクター</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>トリガー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>事前条件</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>メインフロー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">代替フロー</span></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>途中でシステム内でエラーが発生した場合などに分岐する。</p><p>メインフローの代わりとして働くステップを書く。</p><p>※代替フローを実行しても事後条件は満たされる。</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>例外フロー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>ユースケースの実行を断念しなければならないような場合の手順を書く。</p><p>ユーザーから見えるシステムのエラーで、代替するフローがない例外のもの</p><p>※例外フローを実行した場合、事後条件は満たされない</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>事後条件</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>備考</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>シナリオ</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>このユースケースを使用する行為の事例</p><p>（正常ケース、異常ケースの具体例）を書く</p><p>代替フロー、例外フローのインスタンスと考える</p><p>ユースケースそのもののテストやソフトウェアの動作テストに利用することができる</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1208
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><span style=\"background-color: rgb(40, 40, 40);\">ユースケース名</span></p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>ZするためにYをXする</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>概要</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>アクター</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>トリガー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>事前条件</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>メインフロー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">代替フロー</span></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>途中でシステム内でエラーが発生した場合などに分岐する。</p><p>メインフローの代わりとして働くステップを書く。</p><p>※代替フローを実行しても事後条件は満たされる。</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>例外フロー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>ユースケースの実行を断念しなければならないような場合の手順を書く。</p><p>ユーザーから見えるシステムのエラーで、代替するフローがない例外のもの</p><p>※例外フローを実行した場合、事後条件は満たされない</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>事後条件</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>備考</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>シナリオ</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>このユースケースを使用する行為の事例</p><p>（正常ケース、異常ケースの具体例）を書く</p><p>代替フロー、例外フローのインスタンスと考える</p><p>ユースケースそのもののテストやソフトウェアの動作テストに利用することができる</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 31
+                        },
+                        "valueList": [
+                            {
+                                "width": 1208
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p><span style=\"background-color: rgb(40, 40, 40);\">ユースケース名</span></p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>ZするためにYをXする</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>概要</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>アクター</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>トリガー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>事前条件</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>メインフロー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><span style=\"background-color: rgb(34, 34, 34);\">代替フロー</span></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>途中でシステム内でエラーが発生した場合などに分岐する。</p><p>メインフローの代わりとして働くステップを書く。</p><p>※代替フローを実行しても事後条件は満たされる。</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>例外フロー</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>ユースケースの実行を断念しなければならないような場合の手順を書く。</p><p>ユーザーから見えるシステムのエラーで、代替するフローがない例外のもの</p><p>※例外フローを実行した場合、事後条件は満たされない</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>事後条件</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>備考</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 31
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1208
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p>シナリオ</p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p>このユースケースを使用する行為の事例</p><p>（正常ケース、異常ケースの具体例）を書く</p><p>代替フロー、例外フローのインスタンスと考える</p><p>ユースケースそのもののテストやソフトウェアの動作テストに利用することができる</p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
