@@ -295,6 +295,16 @@
             "key": "ユースケース記述_1.0.0.structuring.json",
             "tags": [
             ]
+        },
+        {
+            "id": "300000",
+            "name": "リーンキャンバス",
+            "key": "リーンキャンバス_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "事業価値構造分析"
+                }
+            ]
         }
     ]
 }
