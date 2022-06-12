@@ -1,0 +1,296 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 1,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "recordHideModeFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 350
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "インテグラル理論のクオドラント",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 31
+            },
+            "valueList": [
+                {
+                    "width": 1016
+                }
+            ]
+        },
+        "values": {
+            "title": "<p>観点</p>",
+            "valueList": [
+                {
+                    "value": "",
+                    "type": "quill"
+                }
+            ]
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 32
+                },
+                "valueList": [
+                    {
+                        "width": 1016
+                    }
+                ]
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>インテグラル理論</p>",
+                "valueList": [
+                    {
+                        "value": "",
+                        "type": "quill"
+                    }
+                ],
+                "note": [
+                    {
+                        "value": "<p><br></p><p>人間・組織・社会・世界を統合的にとらえるためのフレームワーク</p><p><br></p>"
+                    },
+                    {
+                        "value": "<p>インテグラル理論は以下で構成される</p><ul><li><u>クオドラント（ quadrants ）</u></li></ul><p class=\"ql-indent-2\">４象限：「内側と外側」「個と集合」</p><ul><li><u>レベル（ levels ）</u></li></ul><p class=\"ql-indent-2\">人は段階を経て発達する</p><ul><li><u>ステート（ states）</u></li></ul><p class=\"ql-indent-2\">意識状態（覚醒状態、夢見状態など）</p><ul><li><u>ライン（ lines）</u></li></ul><p class=\"ql-indent-2\">領域（人間関係、倫理、認知など）</p><ul><li><u>タイプ（ types）</u></li></ul><p class=\"ql-indent-2\">分類・差異（男性性と女性性、人種など）</p><p><br></p>"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "deleteRecordDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 32
+                        },
+                        "valueList": [
+                            {
+                                "width": 1016
+                            }
+                        ]
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>クオドラント</p>",
+                        "valueList": [
+                            {
+                                "value": "",
+                                "type": "quill"
+                            }
+                        ],
+                        "note": []
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "deleteRecordDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1016
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p>それ</p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>個人の外部</p><p>外面的・個的・客観的</p>"
+                                    },
+                                    {
+                                        "value": "<p>客観的、目に見えるもの、計測可能なもの観測されるもの</p><p>物理的な行動、行為、会話など</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1016
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p>それら</p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>集団の外部</p><p>社会的・外面的・集団的</p>"
+                                    },
+                                    {
+                                        "value": "<p>客観的に、目に見えるもの、計測可能なもの、観察されるもの</p><p>ルール、法律、政策、構造など</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1016
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p>私たち</p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>集団の内部</p><p>文化的・内面的・集団的</p>"
+                                    },
+                                    {
+                                        "value": "<p>主観的、目に見えないもの、計測不可能なもの、感じられるもの</p><p>文化、価値、倫理、模範など</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        },
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": [
+                                    {
+                                        "width": 1016
+                                    }
+                                ]
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p>私</p><p><br></p><p><br></p>",
+                                "valueList": [
+                                    {
+                                        "value": "",
+                                        "type": "quill"
+                                    }
+                                ],
+                                "note": [
+                                    {
+                                        "value": "<p><br></p><p>個人の内部</p><p>内面的・個的・主観的</p>"
+                                    },
+                                    {
+                                        "value": "<p>主観的、目に見えないもの、計測不可能なもの、感じられるもの</p><p>視点、感情、態度、信念など</p><p><br></p>"
+                                    }
+                                ]
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
