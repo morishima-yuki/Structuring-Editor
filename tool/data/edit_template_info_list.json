@@ -315,6 +315,36 @@
                     "tagName": "現状分析"
                 }
             ]
+        },
+        {
+            "id": "320000",
+            "name": "DESC",
+            "key": "DESC_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "伝える技術"
+                }
+            ]
+        },
+        {
+            "id": "330000",
+            "name": "FABE分析",
+            "key": "FABE分析_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "伝える技術"
+                }
+            ]
+        },
+        {
+            "id": "340000",
+            "name": "TAPS",
+            "key": "TAPS_1.0.0.structuring.json",
+            "tags": [
+                {
+                    "tagName": "伝える技術"
+                }
+            ]
         }
     ]
 }
