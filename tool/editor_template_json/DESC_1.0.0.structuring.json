@@ -1,0 +1,295 @@
+{
+    "toolVesion": "0.0.1",
+    "commonParameter": {
+        "columnsCount": 0,
+        "editMode": {
+            "editModeConfigFixed": false,
+            "columnsFixed": false,
+            "recordFixed": false,
+            "recordHideModeFixed": false,
+            "headerValueFixed": false,
+            "titleValueFixed": false,
+            "valuesHideModeFixed": false,
+            "valuesValueFixed": false,
+            "itemJsonViewNotAvailable": true,
+            "titleOptionNotAvailable": false,
+            "valuesOptionNotAvailable": false,
+            "sheetIdFixed": false
+        },
+        "titleStyles": {
+            "width": 1577
+        }
+    },
+    "scriptInfo": {
+        "scripts": []
+    },
+    "sheetInfo": {
+        "name": "DESC",
+        "sheetVersion": "1.0.0",
+        "sheetId": "",
+        "exportTimeStamp": ""
+    },
+    "headerItem": {
+        "valuesStyles": {
+            "title": {
+                "height": 32
+            },
+            "valueList": []
+        },
+        "values": {
+            "title": "",
+            "valueList": []
+        }
+    },
+    "childItems": [
+        {
+            "valuesStyles": {
+                "title": {
+                    "height": 32
+                },
+                "valueList": []
+            },
+            "values": {
+                "titleType": "",
+                "title": "<p>DESC</p>",
+                "valueList": [],
+                "note": [
+                    {
+                        "value": "<p><br></p><p>課題を出発点としてどのように解決するのかを臨場感をもって伝える</p><p><br></p>"
+                    }
+                ]
+            },
+            "attribute": {
+                "metaInfo": [],
+                "comment": [],
+                "review": [],
+                "changeHistory": [],
+                "hideDate": "",
+                "viewValueList": false,
+                "viewChildItems": true
+            },
+            "childItems": [
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 32
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Describe（描写する）</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>Describe（描写する）では、解決しようとしている課題に対して、現状の状態や相手の行動を客観的に描写した上で事実のみを相手に伝える。</p><p>あくまで、事実のみを伝えることが大切なため、自分の感情を入れたり推測で話を進めることがないように意識しておく必要がある。</p><p>推測などが入れば、正しい情報を相手には伝えきれないというデメリットを生じさせるため注意が必要。</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "deleteRecordDate": "",
+                        "viewValueList": false,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 32
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Express（説明する）／ Empathize（共感する）／Expose（見せる）／Explain（説明する）</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>Express（説明する）では、Describe（描写する）した内容に対する自分の意見や感じていることを伝える。</p><p>Express（説明する）の代わりに、Empathize（共感する）やExpose（見せる）、Explain（説明する）と表現することもある。</p><p>ここで伝えることは、あくまで自分の気持ちや感情を素直に表現していくことが大切。</p><p>ただし、感情を押し付けすぎることで、事実と論点がずれてしまったり攻撃的にならないことに注意が必要</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "deleteRecordDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 32
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Suggest（提案する）／Specify（具体的に挙げる）</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>Suggest（提案する）では、課題を解決するためのアイデアや代替案などを提案し、</p><p>相手に承諾して欲しいこと、対応してもらいたいことを具体的に伝える。</p><p>Specify（具体的に挙げる）と表すこともあるが、あくまで提案なので、</p><p>命令や強制ならないようにする必要</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "deleteRecordDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                },
+                {
+                    "valuesStyles": {
+                        "title": {
+                            "height": 32
+                        },
+                        "valueList": []
+                    },
+                    "values": {
+                        "titleType": "",
+                        "title": "<p>Consequence（結果を伝える）／Choose（選択する）</p>",
+                        "valueList": [],
+                        "note": [
+                            {
+                                "value": "<p><br></p><p>Choose（選択する）では、相手がこちらの提案を受け入れた場合と受け入れなかった場合、それぞれに対して結果や選択肢を示します。</p><p>Consequences（結果を伝える）と表されることもあります。</p><p>提案が全て受け入れられるとは限らないことに注意が必要な場面になります。</p><p>また、そうした場合でも、より良い提案ができるように</p><p>再度、Suggest（提案する）を実施することも必要</p><p><br></p>"
+                            }
+                        ]
+                    },
+                    "attribute": {
+                        "metaInfo": [],
+                        "comment": [],
+                        "review": [],
+                        "changeHistory": [],
+                        "hideDate": "",
+                        "deleteRecordDate": "",
+                        "viewValueList": true,
+                        "viewChildItems": true
+                    },
+                    "childItems": [
+                        {
+                            "valuesStyles": {
+                                "title": {
+                                    "height": 123
+                                },
+                                "valueList": []
+                            },
+                            "values": {
+                                "titleType": "",
+                                "title": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+                                "valueList": [],
+                                "note": []
+                            },
+                            "attribute": {
+                                "metaInfo": [],
+                                "comment": [],
+                                "review": [],
+                                "changeHistory": [],
+                                "hideDate": "",
+                                "deleteRecordDate": "",
+                                "viewValueList": true,
+                                "viewChildItems": true
+                            },
+                            "childItems": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
