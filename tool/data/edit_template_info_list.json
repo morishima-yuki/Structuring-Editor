@@ -240,16 +240,6 @@
             ]
         },
         {
-            "id": "240000",
-            "name": "FABE分析",
-            "key": "FABE分析_1.0.0.structuring.json",
-            "tags": [
-                {
-                    "tagName": "製品分析"
-                }
-            ]
-        },
-        {
             "id": "250000",
             "name": "オニオンモデル",
             "key": "オニオンモデル_1.0.0.structuring.json",
@@ -333,6 +323,9 @@
             "tags": [
                 {
                     "tagName": "伝える技術"
+                },
+                {
+                    "tagName": "製品分析"
                 }
             ]
         },
